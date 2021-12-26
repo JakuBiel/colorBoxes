@@ -1,0 +1,19 @@
+#boxes {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+}
+
+body {
+	height: 200vh;
+}
+
+#username {
+	margin-top: 2rem;
+}
